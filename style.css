@@ -1,6 +1,6 @@
 .button {
     position: absolute;
-    margin-top: 10px;
+    margin-top: 40px;
     /* ^to bring it down a little */
     background: #eb94d0;
     background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);  background-image: -moz-linear-gradient(top, #eb94d0, #2079b0);  background-image: -ms-linear-gradient(top, #eb94d0, #2079b0);  background-image: -o-linear-gradient(top, #eb94d0, #2079b0);  background-image: linear-gradient(to bottom, #eb94d0, #2079b0);
@@ -48,6 +48,11 @@ font-family: Arial;  color: #fafafa;  font-size: 27px;  padding: 19px;  text-dec
       font-weight: bold;
   } 
 
-.homebutton {
-    
+
+.mediumtext {
+    color: red;
+    font-size: 30pt;
+}
+  .homebutton {
+
 }
